@@ -2,4 +2,4 @@
 
 <p>JavaScript OOP Model of Public Library</p>
 
-<a href="http://jsfiddle.net/bmccaffray/4dmTv/">Output Tests</a>
+<a href="http://jsfiddle.net/bmccaffray/4dmTv/" target="_blank">Output Tests</a>
